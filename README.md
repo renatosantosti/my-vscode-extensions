@@ -1,16 +1,28 @@
 # My-vscode-Extensions
 ============================
 ## Sobre
-Este é um projeto busca apenas referenciar as minhas extensões utilizadas no vsCode
+Neste projeto busco apenas referenciar as minhas extensões utilizadas no vsCode
 
 
 ## Extensões
 Segue abaixo a lista de extensões e suas respectivas funcionalidades
 
+### Dracula for Visual Studio Code
+A dark theme for many editors, shells, and more.
+
+### Fira Code: free monospaced font with programming ligatures
+https://github.com/tonsky/FiraCode
+
+### EditorConfig for VS Code
+EditorConfig helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs. 
+
 ### js-beautify for VS Cod
 Beautify javascript, JSON, CSS, Sass, and HTML in Visual Studio Code.
 
 VS Code uses js-beautify internally, but it lacks the ability to modify the style you wish to use. This extension enables running js-beautify in VS Code, AND honouring any .jsbeautifyrc file in the open file's path tree to load your code styling. Run with F1 Beautify (to beautify a selection) or F1 Beautify file.
+
+### GitLens — Git supercharged
+GitLens supercharges the Git capabilities built into Visual Studio Code. It helps you to visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
 
 ### C# for Visual Studio Code (powered by OmniSharp)
 C# extension for Visual Studio Code! This extension provides the following features inside VS Code:
@@ -29,9 +41,13 @@ VS Code package to format your Javascript using Prettier and Standard.
 ### REST Client by humao.rest-client
 REST Client allows you to send HTTP request and view the response in Visual Studio Code directly.
 
+### Videos, cnais e Blogs de Referências
+https://www.tgmarinho.com/
+https://www.youtube.com/watch?v=c7P03kkrEG8
+
 ## Autor
 Renato de Moura Santos
-Email: <reantosantos.ti@gmail.com>
+Email: <renatosantos.ti@gmail.com>
 
 ## Licença
 
